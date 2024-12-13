@@ -9,3 +9,5 @@ And code testing combined with the computational theory described in the followi
 "S. Sysala, F. Tschuchnigg, E. Hrubešová, Z. Michalec: Optimization variant of the shear strength reduction method and its usage for stability of embankments with unconfined seepage. Computers and Structures 281, 2023, 107033."
 
 The above case uses a fixed three-dimensional slope geometry, considering the stability analysis of homogeneous soil and no groundwater. In the future, the analysis process under multi-layer soil, groundwater seepage, earthquake and other conditions will be investigated to improve the applicability.
+
+[中文版本 (Chinese)](README_zh.md)
