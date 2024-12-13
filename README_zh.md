@@ -6,7 +6,7 @@
 
 在源代码作者的许可下，强度折减法Python实现过程参考了MATLAB源代码的计算理论"https://github.com/sysala/SSRM"。
 
-在代码实现的最终测试阶段，同时参考了以下文章实现三维弹塑性问题的全向量化处理方法。
+在代码实现的最终测试阶段，并将代码测试与下面文章中描述的计算理论相结合。
 
 "S. Sysala, E. Hrubešová, Z. Michalec, F. Tschuchnigg: Optimization and variational principles for the shear strength reduction method. International Journal for Numerical and Analytical Methods in Geomechanics 45, 2021, pages 2388-2407."
 
