@@ -5,9 +5,11 @@ We propose a standardized ChatGPT programming method for 3D slope stability anal
 The strength reduction calculation logic theory, with the approval of the owner, refer to the MATLAB source code of "https://github.com/sysala/SSRM". 
 
 And code testing combined with the computational theory described in the following article.
+
 "S. Sysala, E. Hrubešová, Z. Michalec, F. Tschuchnigg: Optimization and variational principles for the shear strength reduction method. International Journal for Numerical and Analytical Methods in Geomechanics 45, 2021, pages 2388-2407."
+
 "S. Sysala, F. Tschuchnigg, E. Hrubešová, Z. Michalec: Optimization variant of the shear strength reduction method and its usage for stability of embankments with unconfined seepage. Computers and Structures 281, 2023, 107033."
 
 The above case uses a fixed three-dimensional slope geometry, considering the stability analysis of homogeneous soil and no groundwater. In the future, the analysis process under multi-layer soil, groundwater seepage, earthquake and other conditions will be investigated to improve the applicability.
 
-[中文版本 (Chinese)](README_zh.md)
+[中文版本 (In Chinese)](README_zh.md)
