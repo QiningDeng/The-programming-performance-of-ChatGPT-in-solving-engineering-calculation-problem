@@ -4,7 +4,9 @@
 在源代码作者的许可下，强度折减法Python实现过程参考了MATLAB源代码的计算理论"https://github.com/sysala/SSRM"。
 
 在代码实现的最终测试阶段，同时参考了以下文章实现三维弹塑性问题的全向量化处理方法。
+
 "S. Sysala, E. Hrubešová, Z. Michalec, F. Tschuchnigg: Optimization and variational principles for the shear strength reduction method. International Journal for Numerical and Analytical Methods in Geomechanics 45, 2021, pages 2388-2407."
+
 "S. Sysala, F. Tschuchnigg, E. Hrubešová, Z. Michalec: Optimization variant of the shear strength reduction method and its usage for stability of embankments with unconfined seepage. Computers and Structures 281, 2023, 107033."
 
 上述案例采用固定的三维边坡几何形状，考虑均质土和无地下水的稳定性分析。未来还将研究多层土体、地下水渗流、地震等条件下的分析过程，以提高适用性。
