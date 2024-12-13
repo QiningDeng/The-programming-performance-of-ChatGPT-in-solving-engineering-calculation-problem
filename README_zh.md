@@ -8,3 +8,5 @@
 "S. Sysala, F. Tschuchnigg, E. Hrubešová, Z. Michalec: Optimization variant of the shear strength reduction method and its usage for stability of embankments with unconfined seepage. Computers and Structures 281, 2023, 107033."
 
 上述案例采用固定的三维边坡几何形状，考虑均质土和无地下水的稳定性分析。未来还将研究多层土体、地下水渗流、地震等条件下的分析过程，以提高适用性。
+
+[English Version](README.md)
