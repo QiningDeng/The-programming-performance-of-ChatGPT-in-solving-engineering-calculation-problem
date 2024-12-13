@@ -1,0 +1,2 @@
+# The-programming-performance-of-ChatGPT-in-solving-engineering-calculation-problem
+Three-dimensional slope stability analysis is selected as a case study to examine the programming performance of ChatGPT in assisting in solving engineering calculation problems. Two methods of slope stability coefficient, "limit balance method" and "strength reduction method", are implemented by Python through standardized programming methods.
